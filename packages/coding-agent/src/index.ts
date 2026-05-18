@@ -185,6 +185,7 @@ export {
 	createLsTool,
 	createReadOnlyTools,
 	createReadTool,
+	createRepoStatsTool,
 	createWriteTool,
 	type PromptTemplate,
 } from "./core/sdk.js";
